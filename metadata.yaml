@@ -1,0 +1,30 @@
+_repo: The-Poetical-Works-of-Thomas-Traherne-1636-1674-from-the-original-manuscripts_61586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traherne, Thomas
+    deathdate: 1674
+    gutenberg_agent_id: '51503'
+    url: http://www.gutenberg.org/2009/agents/51503
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Traherne
+  editor:
+    agent_name: Dobell, Bertram
+    birthdate: 1842
+    deathdate: 1914
+    gutenberg_agent_id: '51504'
+    url: http://www.gutenberg.org/2009/agents/51504
+description: ''
+gutenberg_issued: '2020-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+- GITenberg
+title: The Poetical Works of Thomas Traherne, 1636?-1674, from the original manuscripts
+url: http://www.gutenberg.org/ebooks/61586
